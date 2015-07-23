@@ -1,0 +1,24 @@
+#main-uniq {
+  margin-top: 50px;
+}
+
+.left-nav-uniq {
+  background-color: #f5f5f5;
+  min-height: 100%;
+}
+
+#footer-uniq {
+  background-color: #f5f5f5;
+}
+
+.something .active a {
+  background-color: #428bca;
+  color: #fff;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-left: 30px;
+}
+
+.squish {
+  padding-left: 60px;
+}
